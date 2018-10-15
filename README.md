@@ -22,13 +22,14 @@ If you have installed any of these packages before, make sure to `run pip instal
 
 Execute the following Python program:
 
-`import numpy as np
+```import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import sklearn
 hello = tf.constant('Hello, Tensorflow!')
 sess = tf.Session()
-print(sess.run(hello))`
+print(sess.run(hello))
+```
 If it runs without any errors, then you're good to go!
 
 
@@ -43,10 +44,11 @@ Once the installation is finished, you should be able to open up the Anaconda pr
 
 Finally, install Tensorflow with the Anaconda package manager, known as conda: `conda install Tensorflow`. Now, you should be able to execute the following program without any issues:
 
-`import numpy as np
+```import numpy as np
 import matplotlib.pyplot as plt
 import tensorflow as tf
 hello = tf.constant('Hello, Tensorflow!')
 sess = tf.Session()
-print(sess.run(hello))`
+print(sess.run(hello))
+```
 For additional details on Anaconda installation, see [this](https://medium.com/@GalarnykMichael/install-python-on-windows-anaconda-c63c7c3d1444) helpful link.
