@@ -13,7 +13,7 @@ If you don't have `python3` installed (check by typing `python3` in the terminal
 ### Linux (Ubuntu/Debian) Installation Instructions
 You probably have Python 2 and Python 3 installed if you're running the latest Ubuntu. To check whether you have Python 3 installed, run `python3` in the terminal. 
 
-To get Python 3 (we recommend using this over Python 2), run `sudo apt-get install python3.6`, then `sudo apt-get install python3.6`
+To get Python 3 (we recommend using this over Python 2), run `sudo apt-get update`, then `sudo apt-get install python3.6`
 
 #### Get the Python libraries you'll need (Mac & Linux)
 Run `pip3 install numpy matplotlib tensorflow sklearn jupyter scipy` if you are running Python3, otherwise run `pip install numpy matplotlib tensorflow jupyter sklearn scipy`. This command may have to be prefaced with the `sudo` keyword.
