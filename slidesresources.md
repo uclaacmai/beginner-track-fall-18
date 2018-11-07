@@ -3,6 +3,7 @@
 - 10.16 [Intro to ML](tinyurl.com/btrackslides1)
 - 10.23 [Math and Coding Overview](tinyurl.com/btrackslides2)
 - 10.30 [Linear Regression: Theory](tinyurl.com/btracksl3)
+- 11.06 [Linear Regression: Code](https://tinyurl.com/btrackslides4)
 
 ## Resources
 
