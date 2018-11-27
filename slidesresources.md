@@ -5,6 +5,7 @@
 - 10.30 [Linear Regression: Theory](tinyurl.com/btracksl3)
 - 11.06 [Linear Regression: Code](https://tinyurl.com/btrackslides4)
 - 11.13 [Logistic Regression: Theory](tinyurl.com/btrackslides5)
+- 11.20 [Logistic Regression: Code](tinyurl.com/btrackslides6)
 
 ## Resources
 
