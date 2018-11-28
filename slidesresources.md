@@ -18,5 +18,5 @@
 - [An online 3-D grapher.](https://academo.org/demos/3d-surface-plotter/) Plot functions, then calculate the gradient at certain points and locate the corresponding points on the graph. Check that if you move in the direction of the gradient, you're moving in the direction of steepest ascent. Now negate the gradient. Check that moving in the direction of the negated gradient causes you to move in the direction of steepest **descent**.
 
 ### Machine Learning
-#### Backpropagataion 
+#### Backpropagation 
 - [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
