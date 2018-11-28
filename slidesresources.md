@@ -6,6 +6,7 @@
 - 11.06 [Linear Regression: Code](https://tinyurl.com/btrackslides4)
 - 11.13 [Logistic Regression: Theory](tinyurl.com/btrackslides5)
 - 11.20 [Logistic Regression: Code](tinyurl.com/btrackslides6)
+- 11.27 [Neural Network Introduction](tinyurl.com/btrackslides7)
 
 ## Resources
 
@@ -16,5 +17,6 @@
 - [An example of linear regression using gradient descent.](https://colab.research.google.com/drive/1PPVP27QaY2HaQNW3Gy3HT8MssdqXsHbM) Helpful to see a real example of code implementing what we're trying to do. Week 4's code will be fairly similar.
 - [An online 3-D grapher.](https://academo.org/demos/3d-surface-plotter/) Plot functions, then calculate the gradient at certain points and locate the corresponding points on the graph. Check that if you move in the direction of the gradient, you're moving in the direction of steepest ascent. Now negate the gradient. Check that moving in the direction of the negated gradient causes you to move in the direction of steepest **descent**.
 
-#### Matrices
-- coming soon!
+#### Backpropagataion 
+- [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+- 
