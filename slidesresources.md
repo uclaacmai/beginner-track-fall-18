@@ -20,3 +20,7 @@
 ### Machine Learning
 #### Backpropagation 
 - [How the backpropagation algorithm works](http://neuralnetworksanddeeplearning.com/chap2.html)
+
+### Coding
+#### Python
+- [Codecademy intro course.](https://www.codecademy.com/learn/learn-python-3) Learn Python in an interactive manner. Kind of slow if you have previous coding experience, but great for beginners and overall helpful for everyone. Make sure you practice the skills / concepts taught in larger project settings on your own to make sure you're comfortable with them.
