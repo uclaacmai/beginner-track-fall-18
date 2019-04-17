@@ -1,12 +1,12 @@
 ## Slide links (updated weekly)
 
-- 10.16 [Intro to ML](tinyurl.com/btrackslides1)
-- 10.23 [Math and Coding Overview](tinyurl.com/btrackslides2)
-- 10.30 [Linear Regression: Theory](tinyurl.com/btracksl3)
-- 11.06 [Linear Regression: Code](https://tinyurl.com/btrackslides4)
-- 11.13 [Logistic Regression: Theory](tinyurl.com/btrackslides5)
-- 11.20 [Logistic Regression: Code](tinyurl.com/btrackslides6)
-- 11.27 [Neural Network Introduction](tinyurl.com/btrackslides7)
+- 10.16 [Intro to ML](https://docs.google.com/presentation/d/1yBVsftob3OptsV2Yqlj3wV5kPMEQjFGSWDPnJobTK8Q/edit?usp=sharing)
+- 10.23 [Math and Coding Overview](https://docs.google.com/presentation/d/1QhcoBEAXzsa1ign-zDemErJw5t_AibPaXT1owzcVRp0/edit?usp=sharing)
+- 10.30 [Linear Regression: Theory](https://docs.google.com/presentation/d/1zmOeMSZTN2NrA4XVpaLZjqMkaNyK8bHV5VVp6O0e22I/edit?usp=sharing)
+- 11.06 [Linear Regression: Code](https://docs.google.com/presentation/d/1R2m3STUJoLOl_15wqKSNlBCn-HT0AiGvzb9N8kaCzxg/edit?usp=sharing)
+- 11.13 [Logistic Regression: Theory](https://docs.google.com/presentation/d/1YjHlzMB_qO1IPbpiRQ0JL384HYXrqLvX__VciSYuiw8/edit?usp=sharing)
+- 11.20 [Logistic Regression: Code](https://docs.google.com/presentation/d/1wrQMaFDKzrhwAmOnMiUiQ-HNSuwqyIwRgsyW2yTlsvg/edit?usp=sharing)
+- 11.27 [Neural Network Introduction](https://docs.google.com/presentation/d/123AXS5RjdgDU4p4q5gaBwMn_e0BhqwIbOzo-HSs1yV0/edit?usp=sharing)
 
 ## Resources
 
